@@ -201,7 +201,15 @@ Remember to comply with Wikipedia's terms of service and usage policies when acc
 This guide provides step-by-step instructions on how to set up and run the project, as well as how to access and interact with the application.
 ### Snippets 
 
-![WhatsApp Image 2024-04-22 at 23 07 13_397cca7b](https://github.com/SARTHAK9111/crawler/assets/77686182/5125ac17-4992-4fdf-8c86-7964ee2bc3d2)
 
-![WhatsApp Image 2024-04-22 at 23 08 06_f54cb68f](https://github.com/SARTHAK9111/crawler/assets/77686182/e6345c17-48ec-4dd2-85ed-87168ae01d2e)
+![image](https://github.com/SARTHAK9111/crawler/assets/77686182/e140b299-6334-43db-8a50-20bd7f34e0b1)
+
+
+![image](https://github.com/SARTHAK9111/crawler/assets/77686182/f56259ec-b7f9-4e27-8705-694d91d3d1cf)
+
+
+##Acrhitectur
+
+![WhatsApp Image 2024-04-23 at 01 09 06_70da7337](https://github.com/SARTHAK9111/crawler/assets/77686182/73490417-4eb1-42da-86b2-8e1e3f187b18)
+
 
